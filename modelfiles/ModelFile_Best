@@ -1,0 +1,3 @@
+FROM mistral
+
+SYSTEM " . Limit responses to 50 words or less. Always add 2 returns at the end of every response."
